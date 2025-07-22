@@ -1,416 +1,173 @@
 <div align="center">
 
-<!-- Animated Header with Vibrant Colors -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Srikanth%20Ramagani&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20%26%20Java%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+# Hi 👋, I'm Srikanth Ramagani
 
-<!-- Explosive Name Animation with Neon Colors -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%94%A5+SRIKANTH+RAMAGANI+%F0%9F%94%A5;%E2%9A%A1+FULL+STACK+WIZARD+%E2%9A%A1;%F0%9F%9A%80+CODE+ARCHITECT+%F0%9F%9A%80" alt="Explosive Name" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
-<!-- Dynamic Subtitle with Rainbow Colors -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%8C%88+MERN+Stack+%7C+Java+Spring+%7C+Cloud+Expert+%F0%9F%8C%88;%F0%9F%92%8E+Building+Next-Gen+Applications+%F0%9F%92%8E;%E2%9C%A8+Transforming+Ideas+into+Digital+Magic+%E2%9C%A8;%F0%9F%94%AE+Full+Stack+Sorcerer+%F0%9F%94%AE" alt="Dynamic Subtitle" />
-</h2>
-
-<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Vibrant Stats and Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikanthramagani&label=Profile%20Views&color=ff69b4&style=for-the-badge&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/srikanthramagani?label=Followers&style=for-the-badge&color=00ff00&labelColor=000000" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Mastery-ff6600?style=for-the-badge&labelColor=000000" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Coding%20Beast-red?style=for-the-badge&labelColor=000000&logo=fire" alt="Status" />
-</p>
+</div>
 
-<!-- Animated Trophy with Neon Theme -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=noctis_minimus&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+## 🚀 About Me
+
+- 🔭 I'm currently working on **Full Stack Web Applications**
+- 🌱 I'm currently learning **Advanced React Patterns & Microservices**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **MERN Stack, Java, Spring Boot, React**
+- 📫 How to reach me: **srikanthramagani@gmail.com**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
----
+## 📊 GitHub Stats
 
-<!-- About Section with Neon Styling -->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srikanthramagani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthramagani&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthramagani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthramagani&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+</div>
+
+## 🔥 Featured Projects
+
 <div align="center">
 
-## 🔥 ABOUT THE CODE WIZARD 🔥
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 💫 **CURRENT MISSION**
-- 🎯 **Building** Revolutionary Web Apps
-- 🌟 **Mastering** Cloud & Microservices
-- 🤝 **Collaborating** on Epic Open Source
-- 🏆 **2024 Goal:** 100+ Repository Contributions
-- ⚡ **Specializing** in High-Performance Systems
-
-</td>
-<td valign="top" width="50%">
-
-### 🎨 **DEVELOPER DNA**
-- 💬 **Expert in:** React, Node.js, Java, Spring Boot
-- 📧 **Contact:** srikanthramagani@gmail.com
-- ⚡ **Formula:** Coffee + Code = Magic ☕✨
-- 🧠 **Passion:** Complex Algorithm Solving
-- 🎮 **Hobby:** Building Cool Side Projects
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🛒 **E-Commerce Platform** | Full-featured online shopping platform with payment integration | MERN Stack, Stripe, JWT | [Demo](#) \| [Code](#) |
+| 📱 **Social Media App** | Real-time social networking platform with chat features | React, Node.js, Socket.io, MongoDB | [Demo](#) \| [Code](#) |
+| 🏦 **Banking System** | Secure banking application with transaction management | Java, Spring Boot, MySQL, JWT | [Demo](#) \| [Code](#) |
+| 📊 **Task Management** | Collaborative project management tool with real-time updates | MERN Stack, Redux, WebSocket | [Demo](#) \| [Code](#) |
 
 </div>
 
----
+## 💼 Experience & Skills
 
-<!-- Tech Stack with Vibrant Colors -->
 <div align="center">
 
-## 🛠️ **TECH ARSENAL** 🛠️
-
-### 🎨 **Frontend Mastery**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,redux,materialui,vue,angular&theme=dark&perline=6" />
-</p>
-
-### ⚙️ **Backend Powerhouse**  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,django,flask,graphql,nestjs,fastapi&theme=dark&perline=5" />
-</p>
-
-### 🗄️ **Database & Cloud Mastery**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws,gcp,azure,docker,kubernetes&theme=dark&perline=5" />
-</p>
-
-### 🔧 **Development Arsenal**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,figma,linux,nginx,jenkins&theme=dark&perline=5" />
-</p>
-
-</div>
-
----
-
-<!-- GitHub Stats with Neon Theme -->
-<div align="center">
-
-## 📊 **GITHUB ANALYTICS** 📊
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthramagani&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FF0080&text_color=00FF41&icon_color=FF6600" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=srikanthramagani&theme=synthwave&hide_border=true&background=0D1117&stroke=FF0080&ring=00FF41&fire=FF6600&currStreakLabel=00FF41" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthramagani&layout=compact&theme=synthwave&hide_border=true&langs_count=12&bg_color=0D1117&title_color=FF0080&text_color=00FF41" />
-
-<!-- Activity Graph with Neon Colors -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthramagani&theme=synthwave&hide_border=true&area=true&bg_color=0D1117&color=00FF41&line=FF0080&point=FF6600" />
-
-</div>
-
----
-
-<!-- Featured Projects with Vibrant Design -->
-<div align="center">
-
-## 🌟 **FEATURED MASTERPIECES** 🌟
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **E-Commerce Empire**
-**🔥 Tech Stack:** React, Node.js, MongoDB, Stripe
-- 🛒 **Advanced Shopping Cart System**
-- 💳 **Secure Payment Gateway Integration**
-- 📱 **Fully Responsive Design**
-- 🔐 **JWT Authentication & Authorization**
-- 📊 **Real-time Analytics Dashboard**
-
-**🎯 [🔗 Explore Project](https://github.com/srikanthramagani)**
-
-</td>
-<td width="50%">
-
-### 📊 **Task Management Beast**
-**🔥 Tech Stack:** Java, Spring Boot, MySQL, React
-- ✅ **Real-time Task Synchronization**
-- 👥 **Advanced Team Collaboration**
-- 📈 **Intelligent Progress Analytics**
-- 🔔 **Smart Notification System**
-- 🎨 **Beautiful UI/UX Design**
-
-**🎯 [🔗 Explore Project](https://github.com/srikanthramagani)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 **Social Media Universe**
-**🔥 Tech Stack:** MERN Stack, Socket.io, AWS
-- 💬 **Lightning-Fast Real-time Messaging**
-- 📸 **Advanced Media Sharing Platform**
-- 🔍 **Intelligent Search Algorithm**
-- 📊 **Comprehensive Analytics Dashboard**
-- 🔒 **Enterprise-Level Security**
-
-**🎯 [🔗 Explore Project](https://github.com/srikanthramagani)**
-
-</td>
-<td width="50%">
-
-### 🏦 **Banking Revolution**
-**🔥 Tech Stack:** Java, Spring Security, PostgreSQL
-- 💰 **Ultra-Secure Transaction Processing**
-- 📱 **Next-Gen Mobile Banking**
-- 🔒 **Multi-Factor Authentication**
-- 📊 **Advanced Financial Reporting**
-- 🛡️ **Fraud Detection System**
-
-**🎯 [🔗 Explore Project](https://github.com/srikanthramagani)**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Skills Progress Bars with Neon Colors -->
-<div align="center">
-
-## 💪 **SKILL MASTERY LEVELS** 💪
-
-<table>
-<tr>
-<td width="50%">
-
-**🎨 Frontend Technologies**
-```text
-React.js         ████████████████████ 100%
-JavaScript       ███████████████████░  95%
-TypeScript       ██████████████████░░  90%
-HTML/CSS         ████████████████████ 100%
-Tailwind CSS     ███████████████████░  95%
-Bootstrap        ██████████████████░░  90%
+### 🎯 Current Focus
+```javascript
+const srikanth = {
+    code: ["JavaScript", "Java", "Python", "TypeScript"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            java: ["Spring Boot", "Spring Security"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+        cloud: ["AWS", "Docker", "Kubernetes"]
+    },
+    currentlyLearning: ["Microservices", "System Design", "DevOps"],
+    funFact: "I can debug a problem faster with console.log than with a debugger"
+};
 ```
 
-**⚙️ Backend Technologies**
-```text
-Node.js          ███████████████████░  95%
-Express.js       ███████████████████░  95%
-Java             ████████████████████ 100%
-Spring Boot      ███████████████████░  95%
-Python           ██████████████████░░  90%
-REST APIs        ████████████████████ 100%
-```
+</div>
 
-</td>
-<td width="50%">
+## 📈 Contribution Graph
 
-**🗄️ Database & Cloud**
-```text
-MongoDB          ███████████████████░  95%
-MySQL            ███████████████████░  95%
-PostgreSQL       ██████████████████░░  90%
-AWS              ██████████████████░░  90%
-Docker           █████████████████░░░  85%
-Kubernetes       ████████████████░░░░  80%
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srikanthramagani&theme=tokyonight&hide_border=true" />
+</div>
 
-**🔧 Development Tools**
-```text
-Git/GitHub       ████████████████████ 100%
-VS Code          ████████████████████ 100%
-Postman          ███████████████████░  95%
-Linux            ██████████████████░░  90%
-Jenkins          █████████████████░░░  85%
-Figma            ████████████████░░░░  80%
-```
+## 🌟 Skills Progress
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+| Skill | Level | Experience |
+|-------|-------|------------|
+| **React.js** | ████████████████████ 100% | 3+ years |
+| **Node.js** | ███████████████████░ 95% | 3+ years |
+| **Java** | ████████████████████ 100% | 4+ years |
+| **Spring Boot** | ███████████████████░ 95% | 3+ years |
+| **MongoDB** | ██████████████████░░ 90% | 2+ years |
+| **MySQL** | ███████████████████░ 95% | 3+ years |
+| **JavaScript** | ████████████████████ 100% | 4+ years |
+| **Python** | █████████████████░░░ 85% | 2+ years |
+
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanthramagani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthramagani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthramagani)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+</div>
+
+## 📊 Profile Stats
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=srikanthramagani&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/srikanthramagani?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/srikanthramagani?style=social)
 
 </div>
 
 ---
 
-<!-- Contribution Snake with Vibrant Colors -->
 <div align="center">
 
-## 🐍 **CONTRIBUTION BEAST** 🐍
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srikanthramagani/srikanthramagani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srikanthramagani/srikanthramagani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srikanthramagani/srikanthramagani/output/github-contribution-grid-snake.svg">
-</picture>
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/srikanthramagani/srikanthramagani/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
----
-
-<!-- Coding Activity with Neon Design -->
-<div align="center">
-
-## ⚡ **CODING ACTIVITY** ⚡
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=srikanthramagani&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=00FF41&icon_color=FF6600" alt="Coding Activity" />
-
-</div>
-
----
-
-<!-- Achievement Showcase -->
-<div align="center">
-
-## 🏆 **ACHIEVEMENT SHOWCASE** 🏆
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Projects-50+-FF0080?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-<br><strong>Projects Completed</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FF41?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" />
-<br><strong>Coding Experience</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Technologies-20+-FF6600?style=for-the-badge&logo=code&logoColor=white&labelColor=000000" />
-<br><strong>Tech Stack Mastery</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Commits-1000+-9400D3?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
-<br><strong>Code Contributions</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Connect Section with Neon Styling -->
-<div align="center">
-
-## 🤝 **LET'S CONNECT & BUILD MAGIC** 🤝
-
-<p>
-  <a href="https://linkedin.com/in/srikanthramagani">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:srikanthramagani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/srikanthramagani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/srikanthramagani">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/srikanthramagani">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
-  </a>
-</p>
-
-### 💼 **OPPORTUNITY STATUS**
-<p>
-  <img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-00FF00?style=for-the-badge&logo=handshake&logoColor=white&labelColor=000000" alt="Freelance"/>
-  <img src="https://img.shields.io/badge/Looking%20for-Full%20Time%20Roles-FF0080?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" alt="Full Time"/>
-  <img src="https://img.shields.io/badge/Open%20to-Epic%20Collaborations-FF6600?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" alt="Collaborations"/>
-</p>
-
-</div>
-
----
-
-<!-- Current Learning & Goals -->
-<div align="center">
-
-## 🎯 **CURRENT FOCUS & GOALS** 🎯
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌱 **Currently Learning**
-- 🔥 **Advanced React Patterns & Hooks**
-- ⚡ **Microservices Architecture**
-- 🚀 **DevOps & CI/CD Pipelines**
-- 🧠 **Machine Learning Integration**
-- 🌐 **Web3 & Blockchain Development**
-
-</td>
-<td width="50%">
-
-### 🎯 **2024 Goals**
-- 📈 **Contribute to 10+ Open Source Projects**
-- 🏗️ **Build 5 Production-Ready Applications**
-- 📚 **Master Advanced System Design**
-- 🎓 **Obtain AWS Solutions Architect Certification**
-- 🌟 **Mentor 50+ Junior Developers**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Quote Section with Vibrant Styling -->
-<div align="center">
-
-## 💭 **DEVELOPER WISDOM** 💭
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&border=true" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<!-- Fun Facts Section -->
-<div align="center">
-
-## 🎉 **FUN FACTS ABOUT ME** 🎉
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20Cups-8B4513?style=for-the-badge&logo=coffee&logoColor=white&labelColor=000000" />
-<br><strong>☕ Coffee Addict</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Debug%20Mode-Always%20ON-FF0000?style=for-the-badge&logo=bug&logoColor=white&labelColor=000000" />
-<br><strong>🐛 Bug Hunter</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Stack%20Overflow-Daily%20Visitor-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000" />
-<br><strong>📚 Lifelong Learner</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-
-### ⭐ **"First, solve the problem. Then, write the code."** - John Johnson
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%94%A5+Thanks+for+visiting+my+digital+realm!+%F0%9F%94%A5;%E2%9A%A1+Let's+create+something+LEGENDARY+together!+%E2%9A%A1;%F0%9F%9A%80+Keep+coding+and+stay+awesome!+%F0%9F%9A%80" alt="Animated Footer" />
-
-<img src="https://profile-counter.glitch.me/srikanthramagani/count.svg?color=ff0080&style=for-the-badge" alt="Profile Counter"/>
+**⭐ From [srikanthramagani](https://github.com/srikanthramagani)**
 
 </div>
