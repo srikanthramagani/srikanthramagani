@@ -2,159 +2,213 @@
 
 # Hi 👋, I'm Srikanth Ramagani
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=800&height=60&lines=🚀+MERN+Stack+Developer;☕+Java+Full+Stack+Developer;🧠+Problem+Solver+%26+Innovator;💡+Tech+Enthusiast+%26+Creator;🌟+Building+Amazing+Web+Solutions" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced React Patterns & Microservices**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **MERN Stack, Java, Spring Boot, React**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 I'm currently working on **Full Stack Web Applications & Microservices**
+- 🌱 I'm currently learning **Advanced React Patterns, Spring Cloud & DevOps**
+- 👯 I'm looking to collaborate on **Open Source Projects & Innovative Solutions**
+- 💬 Ask me about **MERN Stack, Java Spring Boot, System Design, APIs**
 - 📫 How to reach me: **srikanthramagani@gmail.com**
-- ⚡ Fun fact: **I debug with console.log and I'm proud of it!**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it! 🐛**
+- 🎯 **2024 Goal:** Contributing to more Open Source projects
+- 🏆 **Experience:** 3+ years in Full Stack Development
+
+<br clear="both"/>
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🎨 Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### ⚙️ Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srikanthramagani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthramagani&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthramagani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthramagani&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthramagani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthramagani&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthramagani&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthramagani&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ## 🔥 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🛒 **E-Commerce Platform** | Full-featured online shopping platform with payment integration | MERN Stack, Stripe, JWT | [Demo](#) \| [Code](#) |
-| 📱 **Social Media App** | Real-time social networking platform with chat features | React, Node.js, Socket.io, MongoDB | [Demo](#) \| [Code](#) |
-| 🏦 **Banking System** | Secure banking application with transaction management | Java, Spring Boot, MySQL, JWT | [Demo](#) \| [Code](#) |
-| 📊 **Task Management** | Collaborative project management tool with real-time updates | MERN Stack, Redux, WebSocket | [Demo](#) \| [Code](#) |
+| 🚀 Project | 📝 Description | 💻 Tech Stack | 🔗 Links |
+|------------|----------------|---------------|----------|
+| 🛒 **E-Commerce Platform** | Full-featured online shopping platform with payment integration, user authentication, and admin dashboard | MERN Stack, Stripe, JWT, Redux | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
+| 📱 **Social Media App** | Real-time social networking platform with chat features, post sharing, and notifications | React, Node.js, Socket.io, MongoDB, Express | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
+| 🏦 **Banking System** | Secure banking application with transaction management, account handling, and security features | Java, Spring Boot, MySQL, JWT, Spring Security | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
+| 📊 **Task Management** | Collaborative project management tool with real-time updates, team collaboration, and analytics | MERN Stack, Redux, WebSocket, Material-UI | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
+| 🎬 **Movie Streaming App** | Netflix-like streaming platform with user profiles, recommendations, and video streaming | React, Node.js, MongoDB, AWS S3, FFmpeg | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
+| 🏥 **Hospital Management** | Complete hospital management system with patient records, appointments, and billing | Java Spring Boot, MySQL, Thymeleaf, Bootstrap | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
 
 </div>
 
-## 💼 Experience & Skills
+## 💼 Professional Experience
 
 <div align="center">
 
-### 🎯 Current Focus
+### 🎯 Current Focus & Expertise
 ```javascript
-const srikanth = {
+const srikanthRamagani = {
+    name: "Srikanth Ramagani",
+    role: "Full Stack Developer",
     code: ["JavaScript", "Java", "Python", "TypeScript"],
+    askMeAbout: ["Web Development", "System Design", "API Development", "Database Design"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
+            js: ["React", "Next.js", "Redux", "Context API"],
+            css: ["Tailwind CSS", "Bootstrap", "Material-UI", "Styled Components"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            java: ["Spring Boot", "Spring Security"],
-            python: ["Django", "Flask"]
+            js: ["Node.js", "Express.js", "Nest.js"],
+            java: ["Spring Boot", "Spring Security", "Spring Data JPA", "Hibernate"],
+            python: ["Django", "Flask", "FastAPI"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "Docker", "Kubernetes"]
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Firebase"],
+        cloud: ["AWS", "Docker", "Kubernetes", "Jenkins"],
+        tools: ["Git", "Postman", "VS Code", "IntelliJ IDEA", "Maven", "Gradle"]
     },
-    currentlyLearning: ["Microservices", "System Design", "DevOps"],
-    funFact: "I can debug a problem faster with console.log than with a debugger"
+    architecture: ["Microservices", "RESTful APIs", "GraphQL", "Event-Driven"],
+    currentlyLearning: ["System Design", "DevOps", "Cloud Architecture", "Kubernetes"],
+    funFact: "I can debug a problem faster with console.log than with a debugger! 🐛",
+    availableForHire: true
 };
 ```
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srikanthramagani&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🌟 Skills Progress
+## 🌟 Skills Mastery
 
 <div align="center">
 
-| Skill | Level | Experience |
-|-------|-------|------------|
-| **React.js** | ████████████████████ 100% | 3+ years |
-| **Node.js** | ███████████████████░ 95% | 3+ years |
-| **Java** | ████████████████████ 100% | 4+ years |
-| **Spring Boot** | ███████████████████░ 95% | 3+ years |
-| **MongoDB** | ██████████████████░░ 90% | 2+ years |
-| **MySQL** | ███████████████████░ 95% | 3+ years |
-| **JavaScript** | ████████████████████ 100% | 4+ years |
-| **Python** | █████████████████░░░ 85% | 2+ years |
+| 💻 Technology | 📊 Proficiency | 🕒 Experience | 🎯 Projects |
+|---------------|----------------|---------------|-------------|
+| **React.js** | ![90%](https://progress-bar.dev/90?color=61DAFB) | 3+ years | 15+ projects |
+| **Node.js** | ![88%](https://progress-bar.dev/88?color=339933) | 3+ years | 12+ projects |
+| **Java** | ![95%](https://progress-bar.dev/95?color=ED8B00) | 4+ years | 20+ projects |
+| **Spring Boot** | ![92%](https://progress-bar.dev/92?color=6DB33F) | 3+ years | 10+ projects |
+| **MongoDB** | ![85%](https://progress-bar.dev/85?color=47A248) | 2+ years | 8+ projects |
+| **MySQL** | ![90%](https://progress-bar.dev/90?color=4479A1) | 3+ years | 15+ projects |
+| **JavaScript** | ![95%](https://progress-bar.dev/95?color=F7DF1E) | 4+ years | 25+ projects |
+| **Python** | ![80%](https://progress-bar.dev/80?color=3776AB) | 2+ years | 6+ projects |
 
 </div>
 
-## 🤝 Connect with Me
+## 🎨 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srikanthramagani&theme=radical&hide_border=true&layout=compact" />
+</div>
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanthramagani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthramagani@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthramagani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://srikanthramagani.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srikanthramagani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srikanthramagani)
+
+### 📧 Open for Opportunities
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:srikanthramagani@gmail.com)
+[![Freelance](https://img.shields.io/badge/Freelance-Available-blue?style=for-the-badge&logo=upwork&logoColor=white)](mailto:srikanthramagani@gmail.com)
 
 </div>
 
-## 📊 Profile Stats
+## 📈 Profile Statistics
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=srikanthramagani&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/srikanthramagani?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/srikanthramagani?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=srikanthramagani&label=Profile%20views&color=FF6B35&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/srikanthramagani?label=Followers&style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/srikanthramagani?style=for-the-badge&color=yellow)
+
+</div>
+
+## 🎯 2024 Goals & Achievements
+
+<div align="center">
+
+- ✅ **Master Microservices Architecture**
+- ✅ **Contribute to 5+ Open Source Projects**
+- 🔄 **Learn Kubernetes & DevOps**
+- 🔄 **Build 10+ Full Stack Applications**
+- 🔄 **Mentor Junior Developers**
+- 🎯 **Land a Senior Developer Role**
 
 </div>
 
@@ -163,11 +217,15 @@ const srikanth = {
 <div align="center">
 
 ### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/srikanthramagani/srikanthramagani/blob/output/github-contribution-grid-snake.svg)
 
-**⭐ From [srikanthramagani](https://github.com/srikanthramagani)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+
+### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**⭐ From [Srikanth Ramagani](https://github.com/srikanthramagani) with ❤️**
 
 </div>
