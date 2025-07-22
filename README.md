@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Srikanth Ramagani
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Srikanth+Ramagani;MERN+Stack+Developer;Java+Full+Stack+Developer;Welcome+to+my+Profile!" alt="Animated Name" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=800&height=60&lines=🚀+MERN+Stack+Developer;☕+Java+Full+Stack+Developer;🧠+Problem+Solver+%26+Innovator;💡+Tech+Enthusiast+%26+Creator;🌟+Building+Amazing+Web+Solutions" alt="Typing SVG" />
 
@@ -98,21 +98,6 @@
 ## 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 💻 Tech Stack | 🔗 Links |
-|------------|----------------|---------------|----------|
-| 🛒 **E-Commerce Platform** | Full-featured online shopping platform with payment integration, user authentication, and admin dashboard | MERN Stack, Stripe, JWT, Redux | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
-| 📱 **Social Media App** | Real-time social networking platform with chat features, post sharing, and notifications | React, Node.js, Socket.io, MongoDB, Express | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
-| 🏦 **Banking System** | Secure banking application with transaction management, account handling, and security features | Java, Spring Boot, MySQL, JWT, Spring Security | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
-| 📊 **Task Management** | Collaborative project management tool with real-time updates, team collaboration, and analytics | MERN Stack, Redux, WebSocket, Material-UI | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
-| 🎬 **Movie Streaming App** | Netflix-like streaming platform with user profiles, recommendations, and video streaming | React, Node.js, MongoDB, AWS S3, FFmpeg | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
-| 🏥 **Hospital Management** | Complete hospital management system with patient records, appointments, and billing | Java Spring Boot, MySQL, Thymeleaf, Bootstrap | [🌐 Demo](https://github.com/srikanthramagani) \| [💻 Code](https://github.com/srikanthramagani) |
-
 </div>
 
 ## 💼 Professional Experience
