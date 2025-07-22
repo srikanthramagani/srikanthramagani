@@ -21,7 +21,7 @@
 - 📫 How to reach me: **srikanthramagani@gmail.com**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it! 🐛**
 - 🎯 **2024 Goal:** Contributing to more Open Source projects
-- 🏆 **Experience:** 3+ years in Full Stack Development
+
 
 <br clear="both"/>
 
