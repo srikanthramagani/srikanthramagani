@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Srikanth+Ramagani;MERN+Stack+Developer;Java+Full+Stack+Developer;Welcome+to+my+Profile!" alt="Animated Name" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Srikanth+Ramagani;MERN+Stack+Developer;Java+Full+Stack+Developer;Welcome+to+my+Profile!" alt="Animated Name" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=800&height=60&lines=🚀+MERN+Stack+Developer;☕+Java+Full+Stack+Developer;🧠+Problem+Solver+%26+Innovator;💡+Tech+Enthusiast+%26+Creator;🌟+Building+Amazing+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,24&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -83,21 +83,21 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthramagani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthramagani&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srikanthramagani&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=9D4EDD&text_color=C77DFF&icon_color=7C3AED" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthramagani&theme=dark&hide_border=true&background=0d1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=7C3AED" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthramagani&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthramagani&layout=compact&theme=dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=9D4EDD&text_color=C77DFF" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthramagani&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthramagani&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=C77DFF&line=9D4EDD&point=7C3AED" width="100%"/>
 </div>
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=srikanthramagani&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ## 💼 Professional Experience
@@ -134,28 +134,18 @@ const srikanthRamagani = {
 
 </div>
 
-## 🌟 Skills Mastery
+### 📈 Skills & Proficiency
 
-<div align="center">
-
-| 💻 Technology | 📊 Proficiency | 🕒 Experience | 🎯 Projects |
-|---------------|----------------|---------------|-------------|
-| **React.js** | ![90%](https://progress-bar.dev/90?color=61DAFB) | 3+ years | 15+ projects |
-| **Node.js** | ![88%](https://progress-bar.dev/88?color=339933) | 3+ years | 12+ projects |
-| **Java** | ![95%](https://progress-bar.dev/95?color=ED8B00) | 4+ years | 20+ projects |
-| **Spring Boot** | ![92%](https://progress-bar.dev/92?color=6DB33F) | 3+ years | 10+ projects |
-| **MongoDB** | ![85%](https://progress-bar.dev/85?color=47A248) | 2+ years | 8+ projects |
-| **MySQL** | ![90%](https://progress-bar.dev/90?color=4479A1) | 3+ years | 15+ projects |
-| **JavaScript** | ![95%](https://progress-bar.dev/95?color=F7DF1E) | 4+ years | 25+ projects |
-| **Python** | ![80%](https://progress-bar.dev/80?color=3776AB) | 2+ years | 6+ projects |
-
-</div>
-
-## 🎨 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srikanthramagani&theme=radical&hide_border=true&layout=compact" />
-</div>
+| Skill | Level | Experience |
+|-------|-------|------------|
+| **React.js** | ![React](https://img.shields.io/badge/React-100%25-9D4EDD?style=flat-square&logo=react) | 3+ years |
+| **Node.js** | ![Node](https://img.shields.io/badge/Node.js-95%25-C77DFF?style=flat-square&logo=node.js) | 3+ years |
+| **Java** | ![Java](https://img.shields.io/badge/Java-100%25-9D4EDD?style=flat-square&logo=openjdk) | 4+ years |
+| **Spring Boot** | ![Spring](https://img.shields.io/badge/Spring%20Boot-95%25-C77DFF?style=flat-square&logo=spring) | 3+ years |
+| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-90%25-7C3AED?style=flat-square&logo=mongodb) | 2+ years |
+| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-95%25-C77DFF?style=flat-square&logo=mysql) | 3+ years |
+| **JavaScript** | ![JS](https://img.shields.io/badge/JavaScript-100%25-9D4EDD?style=flat-square&logo=javascript) | 4+ years |
+| **Python** | ![Python](https://img.shields.io/badge/Python-85%25-7C3AED?style=flat-square&logo=python) | 2+ years |
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -178,36 +168,25 @@ const srikanthRamagani = {
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=srikanthramagani&label=Profile%20views&color=FF6B35&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/srikanthramagani?label=Followers&style=for-the-badge&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/srikanthramagani?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=srikanthramagani&label=Profile%20views&color=9D4EDD&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/srikanthramagani?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/srikanthramagani?style=social)
 
 </div>
 
 ## 🎯 2024 Goals & Achievements
-
-<div align="center">
-
-- ✅ **Master Microservices Architecture**
-- ✅ **Contribute to 5+ Open Source Projects**
-- 🔄 **Learn Kubernetes & DevOps**
-- 🔄 **Build 10+ Full Stack Applications**
-- 🔄 **Mentor Junior Developers**
-- 🎯 **Land a Senior Developer Role**
-
-</div>
 
 ---
 
 <div align="center">
 
 ### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/srikanthramagani/srikanthramagani/blob/output/github-contribution-grid-snake.svg)
+### 📈 Contribution Activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srikanthramagani&theme=github_dark" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
