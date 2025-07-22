@@ -136,16 +136,16 @@ const srikanthRamagani = {
 
 ### 📈 Skills & Proficiency
 
-| Skill | Level | Experience |
+| Skill | Level | 
 |-------|-------|------------|
-| **React.js** | ![React](https://img.shields.io/badge/React-100%25-9D4EDD?style=flat-square&logo=react) | 3+ years |
-| **Node.js** | ![Node](https://img.shields.io/badge/Node.js-95%25-C77DFF?style=flat-square&logo=node.js) | 3+ years |
-| **Java** | ![Java](https://img.shields.io/badge/Java-100%25-9D4EDD?style=flat-square&logo=openjdk) | 4+ years |
-| **Spring Boot** | ![Spring](https://img.shields.io/badge/Spring%20Boot-95%25-C77DFF?style=flat-square&logo=spring) | 3+ years |
-| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-90%25-7C3AED?style=flat-square&logo=mongodb) | 2+ years |
-| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-95%25-C77DFF?style=flat-square&logo=mysql) | 3+ years |
-| **JavaScript** | ![JS](https://img.shields.io/badge/JavaScript-100%25-9D4EDD?style=flat-square&logo=javascript) | 4+ years |
-| **Python** | ![Python](https://img.shields.io/badge/Python-85%25-7C3AED?style=flat-square&logo=python) | 2+ years |
+| **React.js** | ![React](https://img.shields.io/badge/React-100%25-9D4EDD?style=flat-square&logo=react) | 
+| **Node.js** | ![Node](https://img.shields.io/badge/Node.js-95%25-C77DFF?style=flat-square&logo=node.js) | 
+| **Java** | ![Java](https://img.shields.io/badge/Java-100%25-9D4EDD?style=flat-square&logo=openjdk) | 
+| **Spring Boot** | ![Spring](https://img.shields.io/badge/Spring%20Boot-95%25-C77DFF?style=flat-square&logo=spring) | 
+| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-90%25-7C3AED?style=flat-square&logo=mongodb) | 
+| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-95%25-C77DFF?style=flat-square&logo=mysql) | 
+| **JavaScript** | ![JS](https://img.shields.io/badge/JavaScript-100%25-9D4EDD?style=flat-square&logo=javascript) | 
+| **Python** | ![Python](https://img.shields.io/badge/Python-85%25-7C3AED?style=flat-square&logo=python) | 
 
 ## 🤝 Let's Connect & Collaborate
 
