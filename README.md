@@ -181,6 +181,66 @@
 
 ---
 
+<!-- Skills Progress Bars with Neon Colors -->
+<div align="center">
+
+## 💪 **SKILL MASTERY LEVELS** 💪
+
+<table>
+<tr>
+<td width="50%">
+
+**🎨 Frontend Technologies**
+```text
+React.js         ████████████████████ 100%
+JavaScript       ███████████████████░  95%
+TypeScript       ██████████████████░░  90%
+HTML/CSS         ████████████████████ 100%
+Tailwind CSS     ███████████████████░  95%
+Bootstrap        ██████████████████░░  90%
+```
+
+**⚙️ Backend Technologies**
+```text
+Node.js          ███████████████████░  95%
+Express.js       ███████████████████░  95%
+Java             ████████████████████ 100%
+Spring Boot      ███████████████████░  95%
+Python           ██████████████████░░  90%
+REST APIs        ████████████████████ 100%
+```
+
+</td>
+<td width="50%">
+
+**🗄️ Database & Cloud**
+```text
+MongoDB          ███████████████████░  95%
+MySQL            ███████████████████░  95%
+PostgreSQL       ██████████████████░░  90%
+AWS              ██████████████████░░  90%
+Docker           █████████████████░░░  85%
+Kubernetes       ████████████████░░░░  80%
+```
+
+**🔧 Development Tools**
+```text
+Git/GitHub       ████████████████████ 100%
+VS Code          ████████████████████ 100%
+Postman          ███████████████████░  95%
+Linux            ██████████████████░░  90%
+Jenkins          █████████████████░░░  85%
+Figma            ████████████████░░░░  80%
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- Contribution Snake with Vibrant Colors -->
 <div align="center">
 
@@ -191,6 +251,47 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srikanthramagani/srikanthramagani/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/srikanthramagani/srikanthramagani/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+---
+
+<!-- Coding Activity with Neon Design -->
+<div align="center">
+
+## ⚡ **CODING ACTIVITY** ⚡
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=srikanthramagani&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=00FF41&icon_color=FF6600" alt="Coding Activity" />
+
+</div>
+
+---
+
+<!-- Achievement Showcase -->
+<div align="center">
+
+## 🏆 **ACHIEVEMENT SHOWCASE** 🏆
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Projects-50+-FF0080?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<br><strong>Projects Completed</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-00FF41?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000" />
+<br><strong>Coding Experience</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Technologies-20+-FF6600?style=for-the-badge&logo=code&logoColor=white&labelColor=000000" />
+<br><strong>Tech Stack Mastery</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Commits-1000+-9400D3?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+<br><strong>Code Contributions</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -230,12 +331,72 @@
 
 ---
 
+<!-- Current Learning & Goals -->
+<div align="center">
+
+## 🎯 **CURRENT FOCUS & GOALS** 🎯
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌱 **Currently Learning**
+- 🔥 **Advanced React Patterns & Hooks**
+- ⚡ **Microservices Architecture**
+- 🚀 **DevOps & CI/CD Pipelines**
+- 🧠 **Machine Learning Integration**
+- 🌐 **Web3 & Blockchain Development**
+
+</td>
+<td width="50%">
+
+### 🎯 **2024 Goals**
+- 📈 **Contribute to 10+ Open Source Projects**
+- 🏗️ **Build 5 Production-Ready Applications**
+- 📚 **Master Advanced System Design**
+- 🎓 **Obtain AWS Solutions Architect Certification**
+- 🌟 **Mentor 50+ Junior Developers**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- Quote Section with Vibrant Styling -->
 <div align="center">
 
 ## 💭 **DEVELOPER WISDOM** 💭
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&border=true" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<!-- Fun Facts Section -->
+<div align="center">
+
+## 🎉 **FUN FACTS ABOUT ME** 🎉
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20Cups-8B4513?style=for-the-badge&logo=coffee&logoColor=white&labelColor=000000" />
+<br><strong>☕ Coffee Addict</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Debug%20Mode-Always%20ON-FF0000?style=for-the-badge&logo=bug&logoColor=white&labelColor=000000" />
+<br><strong>🐛 Bug Hunter</strong>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Stack%20Overflow-Daily%20Visitor-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000" />
+<br><strong>📚 Lifelong Learner</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
