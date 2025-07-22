@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Srikanth+Ramagani;MERN+Stack+Developer;Java+Full+Stack+Developer;Welcome+to+my+Profile!" alt="Animated Name" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&pause=500&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Hi+👋%2C+I'm+Srikanth+Ramagani" alt="Animated Name" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
