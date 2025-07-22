@@ -137,7 +137,7 @@ const srikanthRamagani = {
 ### 📈 Skills & Proficiency
 
 | Skill | Level | 
-|-------|-------|------------|
+|-------|-------|
 | **React.js** | ![React](https://img.shields.io/badge/React-100%25-9D4EDD?style=flat-square&logo=react) | 
 | **Node.js** | ![Node](https://img.shields.io/badge/Node.js-95%25-C77DFF?style=flat-square&logo=node.js) | 
 | **Java** | ![Java](https://img.shields.io/badge/Java-100%25-9D4EDD?style=flat-square&logo=openjdk) | 
